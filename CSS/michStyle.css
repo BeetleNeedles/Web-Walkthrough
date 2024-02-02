@@ -1,0 +1,47 @@
+body{
+    background:rgb(155,188,15);
+    font-family: monospace;
+    font-size: 15px;
+    color:rgb(15,56,15);
+}
+
+h1{
+    font-weight: normal;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+   text-align:left;
+}
+
+a{
+    color:whitesmoke;
+    text-decoration:none;
+    text-align:right;
+
+}
+
+a:hover {
+    color:rgb(15,56,15);
+}
+
+img {
+    width: 500px;
+    display:block;
+    align-content: center;
+}
+
+p, img {
+    margin: 10px;
+
+}
+
+.caption {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
